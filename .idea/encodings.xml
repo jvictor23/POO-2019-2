@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/Principal.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/config/SQLConnection.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/controller/AutomovelController.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/controller/ClienteController.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/controller/FuncionarioController.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/controller/MarcaController.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/controller/ModeloController.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/controller/VendaController.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/Automovel.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/Badeco.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/Cliente.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/Funcionario.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/Gerente.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/IFuncionario.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/Marca.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/Modelo.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/Pessoa.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/entity/Venda.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/AutomovelModel.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/ClienteModel.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/FuncionarioModel.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/MarcaModel.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/ModeloModel.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/model/VendaModel.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/view/AutomovelView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/view/ClienteView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/view/FuncionarioView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/view/MarcaView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/view/ModeloView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java/view/VendaView.java" charset="windows-1252" />
+  </component>
+</project>
